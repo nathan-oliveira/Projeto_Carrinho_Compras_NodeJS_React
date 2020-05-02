@@ -1,0 +1,3 @@
+npm init
+npm install --save express body-parser cors mysql
+npm install -g nodemon
